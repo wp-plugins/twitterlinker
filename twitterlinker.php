@@ -5,7 +5,7 @@ Plugin URI: tbd
 Description: Automagically turns an @name twitter reference into a twitter link to that person's twitter page.
 Version: 0.1
 Author: Thursday's Child
-Author URI: http://www.thrusdays-child.net
+Author URI: http://www.thursdays-child.net
 */
 ?>
 
